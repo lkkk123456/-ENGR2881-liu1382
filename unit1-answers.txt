@@ -1,6 +1,6 @@
 ## Specify the OSI Layer to which best matches each statement
 # Question 'ab': Which layer best fits this statement: Responsible for routing packets among networks
-ab=
+ab=3
 # Question 'ac': Which layer best fits this statement: Is used to abstract the network for user-oriented programmes
 ac=
 # Question 'ad': Which layer best fits this statement: The layer where virtual circuits can be established
