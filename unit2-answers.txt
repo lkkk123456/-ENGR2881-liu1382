@@ -1,6 +1,6 @@
 ## Socket Programming General True or False Statements
 # Question 'ab': True or false: The write() function for the C programming language is used to reply to a read() request from a server.
-ab=
+ab=f
 # Question 'ac': True or false: A network socket usually contains addressing information for layer 3 and layer 4
 ac=
 # Question 'ad': True or false: The bind() function for the C programming language creates a network socket and binds it to a network address
