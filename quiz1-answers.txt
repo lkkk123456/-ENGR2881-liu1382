@@ -1,0 +1,151 @@
+## Quiz #1: Chapters 1 to 3
+# Question 'ab': True or false: NRZI changes the signal every time a 0 or a 1 is encoded, making it easier to synchronise
+ab=
+# Question 'ac': True or false: For each bit the sender wants to transmit using Direct Sequence spread spectrum it actually sends the inclusive OR of that bit and n random bits
+ac=
+# Question 'ad': True or false: In a virtual-circuit network, a virtual connection between the source and destination host must first be established, before data can be sent between them
+ad=
+# Question 'ae': True or false: Baseline wander is corrected by sending a long series of 1s or 0s
+ae=
+# Question 'af': True or false: The 802.11 distribution system forwards frames sent by clients connected to some access point to devices connected to other access points
+af=
+# Question 'ag': True or false: The Sending Window Size and the Receiving Window Size can be different sizes
+ag=
+# Question 'ah': True or false: A logical channel is a network path that meets the specified logical requirements
+ah=
+# Question 'ai': True or false: Terminators are added to an Ethernet to increase the maximum size of the Ethernet
+ai=
+# Question 'aj': True or false: NRZ is the method for encoding binary signals on computer networks
+aj=
+# Question 'ak': True or false: With infinite bandwidth, latency dominates
+ak=
+# Question 'al': True or false: Every node and router on an OSI network must implement all layers of the network
+al=
+# Question 'am': True or false: The stop-and-wait protocol stops to wait only if an ACK frame is lost
+am=
+# Question 'an': True or false: 802.11 typically has shorter communications range compared with 4G cellular technologies
+an=
+# Question 'ao': True or false: Switching and forwarding relies on the assumption that each device has a globally unique address
+ao=
+# Question 'ap': True or false: Transmission time is the sum of the latency plus propagation time of a packet
+ap=
+# Question 'aq': True or false: Ethernet adaptors can detect when a collision is in progress
+aq=
+# Question 'ar': True or false: A separate Ethernet cable was required to connect each additional device on Original Ethernet
+ar=
+# Question 'as': True or false: An inter-network is the space between two or more intra-networks
+as=
+# Question 'at': True or false: A switched network uses a star topology
+at=
+# Question 'au': True or false: The network API is called by the operating system to connect to different applications
+au=
+# Question 'av': True or false: Core network technologies are evolving more slowly than access networks
+av=
+# Question 'aw': True or false: Each switch must construct both switching tables and routing tables to fulfil its functions
+aw=
+# Question 'ax': True or false: In an Ad-hoc wireless network the nodes must elect a master node to coordinate the network
+ax=
+# Question 'ay': True or false: If a sender does not receive an acknowledgement after a reasonable amount of time, it may re-transmit the original frame
+ay=
+# Question 'az': True or false: Point-to-point and multiple access are two kinds of packet addressing
+az=
+# Question 'ba': True or false: Ethernet is the most successful local area networking technology over recent decades
+ba=
+# Question 'bb': True or false: A client does not normally care about the local port number when making a connection.
+bb=
+# Question 'bc': True or false: The Internet Engineering Task Force (IETF) is responsible for defining the Internet Architecture
+bc=
+# Question 'bd': True or false: For interactive network connections bandwidth is more important than latency
+bd=
+# Question 'be': True or false: In a layered network model, the application layer or equivalent must be at the top of the stack of layers
+be=
+# Question 'bf': True or false: The international standard for CRC generator polynomials is to allocate a unique generator polynomial each time one is required
+bf=
+# Question 'bg': True or false: In 802.11, the use of probe frames is referred to active scanning
+bg=
+# Question 'bh': True or false: LAN, MAN, WAN and SAN are all acronyms for types of networks
+bh=
+# Question 'bi': True or false: When two Ethernet devices attempt to transmit at the same time, the result is collision
+bi=
+# Question 'bj': True or false: Ethernet does not work as well under heavy load conditions as some other alternatives, such as token ring
+bj=
+# Question 'bk': True or false: CRCs are used to detect errors
+bk=
+# Question 'bl': True or false: Certain frequencies are reserved for specific uses
+bl=
+# Question 'bm': True or false: The socket API defines operation for creating, cloning, and closing sockets
+bm=
+# Question 'bn': True or false: In a connectionless network, the sender has no idea whether the network can deliver a packet to a given recipient, or even if the recipient exists or is on the network
+bn=
+# Question 'bo': True or false: Non-technical factors are important drivers of the evolution of networks
+bo=
+# Question 'bp': True or false: Devices that use license-exempt frequencies must only ensure that they use only the license-exempt frequencies to be eligible for licence-free operation
+bp=
+# Question 'bq': True or false: Protocols are the building blocks of a network
+bq=
+# Question 'br': True or false: PPP uses 0x3e as start-of-text character
+br=
+# Question 'bs': True or false: CRCs are a common technique for correcting transmission errors
+bs=
+# Question 'bt': True or false: In 802.11, a client may attempt to connect to a different access point while retaining its current connection to another access point
+bt=
+# Question 'bu': True or false: The Internet Protocol error detection uses a 16-bit value
+bu=
+# Question 'bv': True or false: URL stands for uniform resource locator
+bv=
+# Question 'bw': True or false: Network adaptors concern themselves primarily with the encoding and decoding of individual bits.  Frame boundaries are generally detected by the main processor of the computer, because it is much faster than the processor included in a network adaptor.
+bw=
+# Question 'bx': True or false: Reception of an ACK indicates that a frame has been successfully received
+bx=
+# Question 'by': True or false: The broadcast address on an Ethernet network consists of all 1s
+by=
+# Question 'bz': True or false: Spread-spectrum makes interference worse, because the signal is spread over a wider frequency band, and thus can interfere with more frequencies
+bz=
+# Question 'ca': True or false: The Last Acknowledgement Received is the time at which the last acknowledgement frame was received
+ca=
+# Question 'cb': True or false: Network bandwidth is often measured in bits per second
+cb=
+# Question 'cc': True or false: Adding more hosts to a switched network does not necessarily degrade performance for all users
+cc=
+# Question 'cd': True or false: The Last Acknowledgement Received plus the Sliding Window Size must be no larger than the Last Frame Sent
+cd=
+# Question 'ce': True or false: CRCs use a polynomial because this allows checking the errors of more bits than with a checksum
+ce=
+# Question 'cf': True or false: video-conferencing connects broadband subscribers with the rest of the internet
+cf=
+# Question 'cg': True or false: Permanent virtual circuits require the installation of dedicated hardware, which must not be removed until the virtual circuit is deleted
+cg=
+# Question 'ch': True or false: A switch is a single-input multi-output device that works out which output patch each arriving frame should go to
+ch=
+# Question 'ci': True or false: Ethernet is said to be a 1-persistent protocol because an adaptor with a frame to send transmit it repeatedly with probability 1, until the frame is acknowledged
+ci=
+# Question 'cj': True or false: In 802.11, if both DS bits are set to 1, the fourth address field identifies the original source
+cj=
+# Question 'ck': True or false: DDCMP uses a byte-counting approach
+ck=
+# Question 'cl': True or false: The connect() function does not return until the TCP connection has been successfully established
+cl=
+# Question 'cm': True or false: Fibre-optics typically uses frequencies that are in the X-Ray band
+cm=
+# Question 'cn': True or false: When a message is delayed, but eventually delivered, this is not a network reliability problem, but only a performance problem
+cn=
+# Question 'co': True or false: Wi-Fi power management is the responsibility of the operating system, with Wi-Fi focusing on the media access control and security mechanisms
+co=
+# Question 'cp': True or false: The larger the bandwidth delay product, the more bits a sender must send before receiving acknowledgement
+cp=
+# Question 'cq': True or false: NRZ encoding includes an explicit clock that can be used by clock recovery logic
+cq=
+# Question 'cr': True or false: The virtual circuit identifier of an incoming packet uniquely identifies the virtual circuit to a switch
+cr=
+# Question 'cs': True or false: The socket() call can be used to create both stream and datagram sockets.
+cs=
+# Question 'ct': True or false: The Last Acknowledged Frame minus the Last Frame Received must be no larger than the Receive Window Size
+ct=
+# Question 'cu': True or false: De-multiplexing describes the process of removing multiplexing from a network, so that links on the network don't need to be shared.
+cu=
+# Question 'cv': True or false: Bluetooth supports parking devices, i.e., un-pairing the device to allow another device to connect in its place
+cv=
+# Question 'cw': True or false: Each time an Ethernet adaptor tries to transmit but fails, the amount of time it waits increases four times longer
+cw=
+# Question 'cx': True or false: Ethernet addresses are 6 bytes long
+cx=
