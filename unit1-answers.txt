@@ -73,7 +73,7 @@ bj=5552
 # Question 'bk': How many milli-seconds would it take node 2 to send 5187 bytes of data to node 4? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 bk=434
 # Question 'bl': Can applications on nodes 3 and 0 communicate?
-bl=Y
+bl=N
 # Question 'bm': If an application on node 5 sends 591 bytes of byte, how large would the PDU be at layer 5?
 bm=741
 # Question 'bn': What is the data rate that is possible between nodes 5 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -85,78 +85,79 @@ bp=Y
 # Question 'bq': If an application on node 1 sends 509 bytes of byte, how large would the PDU be at layer 5?
 bq=700
 # Question 'br': What is the data rate that is possible between nodes 1 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-br=
+br=3634
 # Question 'bs': How many milli-seconds would it take node 1 to send 7135 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bs=
+bs=30
 # Question 'bt': Can applications on nodes 3 and 5 communicate?
-bt=
+bt=N
 # Question 'bu': If an application on node 2 sends 142 bytes of byte, how large would the PDU be at layer 7?
-bu=
+bu=230
 # Question 'bv': What is the data rate that is possible between nodes 2 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bv=
+bv=5214
 # Question 'bw': How many milli-seconds would it take node 2 to send 5950 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bw=
+bw=485
 # Question 'bx': Can applications on nodes 5 and 0 communicate?
-bx=
+bx=Y
 # Question 'by': If an application on node 5 sends 646 bytes of byte, how large would the PDU be at layer 2?
-by=
+by=1046
 # Question 'bz': What is the data rate that is possible between nodes 5 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bz=
+bz=1010
 # Question 'ca': How many milli-seconds would it take node 5 to send 1091 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ca=
+ca=263
 # Question 'cb': Can applications on nodes 0 and 2 communicate?
-cb=
+cb=Y
 # Question 'cc': If an application on node 3 sends 522 bytes of byte, how large would the PDU be at layer 5?
-cc=
+cc=652
 # Question 'cd': What is the data rate that is possible between nodes 3 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cd=
+cd=1281
 # Question 'ce': How many milli-seconds would it take node 3 to send 6957 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ce=
+ce=751
 # Question 'cf': Can applications on nodes 3 and 1 communicate?
-cf=
+cf=Y
 # Question 'cg': If an application on node 5 sends 330 bytes of byte, how large would the PDU be at layer 5?
-cg=
+cg=420
 # Question 'ch': What is the data rate that is possible between nodes 5 and 1? {\em Provide the exact number of kilo-bits per second as your answer.} 
-ch=
+ch=7378
 # Question 'ci': How many milli-seconds would it take node 5 to send 2298 bytes of data to node 1? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ci=
+ci=164
 # Question 'cj': Can applications on nodes 1 and 2 communicate?
-cj=
+cj=Y
 # Question 'ck': If an application on node 3 sends 722 bytes of byte, how large would the PDU be at layer 5?
-ck=
+ck=819
 # Question 'cl': What is the data rate that is possible between nodes 3 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cl=
+cl=2363
 # Question 'cm': How many milli-seconds would it take node 3 to send 3008 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cm=
+cm=590
 # Question 'cn': Can applications on nodes 1 and 4 communicate?
-cn=
+cn=Y
 # Question 'co': If an application on node 2 sends 260 bytes of byte, how large would the PDU be at layer 6?
-co=
+co=323
 # Question 'cp': What is the data rate that is possible between nodes 2 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cp=
+cp=1649
 # Question 'cq': How many milli-seconds would it take node 2 to send 4126 bytes of data to node 4? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cq=
+cq=967
 # Question 'cr': Can applications on nodes 4 and 1 communicate?
-cr=
+cr=N
 # Question 'cs': If an application on node 3 sends 654 bytes of byte, how large would the PDU be at layer 1?
-cs=
+cs=1004
 # Question 'ct': What is the data rate that is possible between nodes 3 and 1? {\em Provide the exact number of kilo-bits per second as your answer.} 
-ct=
+ct=638
 # Question 'cu': How many milli-seconds would it take node 3 to send 1247 bytes of data to node 1? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cu=
+cu=464
 ## Name and describe five reliability challenges for computer networks, referring to the network layers at which these challenges either arise, or are solved.
 # Question 'cv': Reliability Challenge #0
-cv=
+cv=IPv4 address exhaustion: The IPv4 addressing structure provides an insufficient number of publicly routable addresses to provide a distinct address to every Internet device or service. 
 # Question 'cw': Reliability Challenge #1
-cw=
+cw=Network bottlenecks:too many packets are present in the subnet at the same time, they will get into one another's way, forming bottlenecks.
 # Question 'cx': Reliability Challenge #2
-cx=
+cx=Quality of service:Data delay, transmit time slow jitter.
 # Question 'cy': Reliability Challenge #3
-cy=
+cy=Packet lost:Packets are not delivered/forwarded to correct destinations; pings are either fully or partially unsuccessful.
 # Question 'cz': Reliability Challenge #4
-cz=
+cz=Routing problem:Routing tables are empty, inconsistent, or incomplete.
 # Question 'da': Reliable delivery of streaming video 
 BEGIN:da
+
 END:da
 # Question 'db': In which layer is security normally implemented in the OSI layered network model? Choose two other layers, and suggest how security might be implemented in each of those layers instead. 
 BEGIN:db
