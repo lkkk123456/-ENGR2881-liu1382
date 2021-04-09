@@ -157,8 +157,10 @@ cy=Packet lost:Packets are not delivered/forwarded to correct destinations; ping
 cz=Routing problem:Routing tables are empty, inconsistent, or incomplete.
 # Question 'da': Reliable delivery of streaming video 
 BEGIN:da
-
+H.323 protocol stack include both Media transmission module and Data Conference module, these are the common feature. H.245 is a common protocol in most H.32X protocol family series which is always used in steaming vedios, also in Network Layer,  audio, video must first be encoded, which requires an encoding protocol. In order to ensure their transmission quality (real-time, etc.), we use UDP to transmit them. And in meeting, we uses T.120. It is a protocol family on top of TCP, using the well-known port 1503. It is used to provide the different functions.
 END:da
 # Question 'db': In which layer is security normally implemented in the OSI layered network model? Choose two other layers, and suggest how security might be implemented in each of those layers instead. 
 BEGIN:db
+In Data Link Layer: we have to combine the blocking of physical access with deactivation at the logic level of unused ports, in order to prevent fraudulent connections which could lead to eavesdropping, flooding attacks, or ARP spoofing.
+In Network Layer:we have to keep in mind vulnerabilities that could exist in routing protocols, such as RIP and OSPF, as they could lead to the injection of false routers. Understanding these protocols will facilitate secure management of the network.
 END:db
