@@ -1,10 +1,10 @@
 ## Quiz #1: Chapters 1 to 3
 # Question 'ab': True or false: NRZI changes the signal every time a 0 or a 1 is encoded, making it easier to synchronise
-ab=
+ab=T
 # Question 'ac': True or false: For each bit the sender wants to transmit using Direct Sequence spread spectrum it actually sends the inclusive OR of that bit and n random bits
-ac=
+ac=T
 # Question 'ad': True or false: In a virtual-circuit network, a virtual connection between the source and destination host must first be established, before data can be sent between them
-ad=
+ad=T
 # Question 'ae': True or false: Baseline wander is corrected by sending a long series of 1s or 0s
 ae=
 # Question 'af': True or false: The 802.11 distribution system forwards frames sent by clients connected to some access point to devices connected to other access points
