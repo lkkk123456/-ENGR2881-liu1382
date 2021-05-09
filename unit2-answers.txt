@@ -10,7 +10,7 @@ ae=t
 # Question 'af': True or false: The socket() function for the C programming language sets the address of a network socket
 af=t
 # Question 'ag': True or false: The recv() function for the C programming language normally waits for data to arrive, if none is waiting.
-ag=t
+ag=f
 # Question 'ah': True or false: The read() function for the C programming language is the best choice for reading data from a UDP socket.
 ah=f
 # Question 'ai': True or false: The close() function for the C programming language closes a network socket.
