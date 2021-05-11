@@ -2,22 +2,17 @@ NOTICE: There is a known issue with questions in section 2 of this work unit
 being graded as incorrect, even if they are correct.  I intend to correct this problem
 in the next few days.
 
-unit2 PROVISIONAL GRADE: CR
+unit2 PROVISIONAL GRADE: HD
 
-NOTE: Changes made after Sun May 9 19:25:33 2021 +0930 have not yet been graded.
+NOTE: Changes made after Tue May 11 09:47:38 2021 +0930 have not yet been graded.
 
-SUMMARY: 15 true/false and yes/no questions: 3 correct, 0 incorrect.
+SUMMARY: 15 true/false and yes/no questions: 10 correct, 5 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          18 normal questions, 18 correct.
 
-ANSWERS GRADED I:  ae af ag ah ai aj ak al am an ao ap
+ANSWERS GRADED I: 
 ANSWERS GRADED F: 
 ANSWERS GRADED P: 
 ANSWERS GRADED CR:
 ANSWERS GRADED DN:
 ANSWERS GRADED HD:
-
-NOTE: You have one or more answers classified as 'I', which means 'Incomplete.'
-      This can either mean that you haven't supplied an answer to those questions yet,
-      or that I haven't marked those answers yet.  If you have supplied an answer, then
-      please wait patiently, as I will continue to mark all questions as quickly as I can.
