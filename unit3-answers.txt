@@ -80,8 +80,18 @@ bn=f
 bo=f
 # Question 'bp': Define a network that consists of a ring network and a bus network connected by a router}
 BEGIN:bp
+router1 bus6
+router1 node1
+node7 bus6
+node8 bus6
+node1 node2
+node2 node3
+node3 node4
+node4 node1
 END:bp
 # Question 'bq': Define a network that consists of a line network and a line network connected by a laptop}
+BEGIN:bq
+laptop1 n
 BEGIN:bq
 END:bq
 # Question 'br': Define a network that consists of a ring network and a star network connected by a node}
