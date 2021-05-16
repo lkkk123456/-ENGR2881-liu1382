@@ -328,7 +328,7 @@ END:cm
 # Question 'cn': Do you grant your following quiz questions to the public domain?
 cn=n
 # Question 'co': Write a false statement about the content of Slide 121 of Chapter 2
-co=
+co=The communication between A B C cannnot cause collision.
 # Question 'cp': Write a false statement about the content of Slide 81 of Chapter 2
 cp=
 # Question 'cq': Write a false statement about the content of Slide 32 of Chapter 2
