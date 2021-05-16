@@ -39,13 +39,13 @@ at=f
 # Question 'au': True or false: The topology of this network is a tree
 au=f
 # Question 'av': True or false: The topology of this network is a line
-av=f
+av=t
 # Question 'aw': True or false: The topology of this network is a ad-hoc
 aw=f
 # Question 'ax': True or false: The topology of this network is a tree
-ax=t
+ax=f
 # Question 'ay': True or false: The topology of this network is a tree
-ay=t
+ay=f
 # Question 'az': True or false: The topology of this network is a ad-hoc
 az=t
 # Question 'ba': True or false: The topology of this network is a ring
