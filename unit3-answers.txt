@@ -326,7 +326,7 @@ My peer-to-peer architecture uses Mesh topology to connect them each other, so t
 END:cm
 ## Write statements that are true or false for various lecture slides.
 # Question 'cn': Do you grant your following quiz questions to the public domain?
-cn=y
+cn=n
 # Question 'co': Write a false statement about the content of Slide 121 of Chapter 2
 co=
 # Question 'cp': Write a false statement about the content of Slide 81 of Chapter 2
