@@ -1,12 +1,10 @@
 quiz1 PROVISIONAL GRADE: F
 
-NOTE: Changes made after Sun May 2 01:50:11 2021 +0930 have not yet been graded.
+NOTE: Changes made after Tue May 18 13:42:47 2021 +0930 have not yet been graded.
 
-SUMMARY: 75 true/false and yes/no questions: 1 correct, 2 incorrect.
+SUMMARY: 75 true/false and yes/no questions: 0 correct, 0 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
 
 
-NOTE: You have one or more answers classified as 'I', which means 'Incomplete.'
-      This can either mean that you haven't supplied an answer to those questions yet,
-      or that I haven't marked those answers yet.  If you have supplied an answer, then
-      please wait patiently, as I will continue to mark all questions as quickly as I can.
+NOTE: You have one or more answers classified as 'INCOMPLETE', which means 'Incomplete.'
+      This means that you have one or more questions that you have not yet answered.
