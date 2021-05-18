@@ -330,7 +330,7 @@ cn=n
 # Question 'co': Write a false statement about the content of Slide 121 of Chapter 2
 co=The communication between A B C cannnot cause collision.
 # Question 'cp': Write a false statement about the content of Slide 81 of Chapter 2
-cp=
+cp=In this picture, the transceiver connect the Ethernet cable and the adapter which attach on the host, it transit from light signial into electrical signial.
 # Question 'cq': Write a false statement about the content of Slide 32 of Chapter 2
 cq=
 # Question 'cr': Write a true statement about the content of Slide 40 of Chapter 4
