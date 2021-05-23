@@ -5,7 +5,7 @@ The digital signature is a type of mathematical algorithum that use to ensure da
 END:ab
 # Question 'ac': Write not more than 250 words about 'certificate authorities'
 BEGIN:ac
-
+Certificate authorities is an entity that issuing public key certificates which are claimed is trustworthy. They are commercial CAs, governmental CAs, and free CAs. CA needs to verify the users or entities so they can sign the public keys. They use Tree-structured  certification  authorityhierarchy and group root certification to create CA insturcture.
 END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
