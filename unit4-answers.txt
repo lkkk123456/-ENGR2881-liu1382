@@ -20,18 +20,18 @@ af=In Non Return to Zero unipolar signaling, the presence of pulse and the absen
 # Question 'ag': Write a false statement about the content of Slide 28 of Chapter 2
 ag=Byte counting can count how many bytes are contained in the payload.
 # Question 'ah': Write a true statement about the content of Slide 63 of Chapter 3
-ah=
+ah=Virtual LAN can be apply on Spanning Tree Algorithm. And it may create many VLAN.
 # Question 'ai': Write a true statement about the content of Slide 10 of Chapter 5
-ai=
+ai=UDP is a protocol that can added message at the end of the queues.
 # Question 'aj': Write a true statement about the content of Slide 10 of Chapter 2
-aj=
+aj=This slides tells about the utilization of different frequency wave in our life. 
 # Question 'ak': Write a false statement about the content of Slide 78 of Chapter 2
-ak=
+ak=Carrier-sense multiple access with collision detection can only detect collided when transitting.
 # Question 'al': Write a true statement about the content of Slide 37 of Chapter 4
-al=
+al=This slide mainly talks how the distance-vector multicast protocol works in routing.
 # Question 'am': Write a false statement about the content of Slide 128 of Chapter 2
-am=
+am=IEEE 802.11 standards set all wireless nodes could directly communicated with each other in the same network structures.
 # Question 'an': Write a false statement about the content of Slide 64 of Chapter 3
-an=
+an=Network represent peer to peer connection which can transfer packets.
 # Question 'ao': Write a false statement about the content of Slide 44 of Chapter 3
-ao=
+ao=The bridge can make to network structure can communicate no matter it has same or different Network segment.
