@@ -10,6 +10,7 @@ END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
+DigiNotar: It was an event that certificate authorities in Dutch hack by attacker and issues lot of certificates with out any trust. At the end Firefox Chrome Opera and Safari all delete the root certificate to the DigiNotar entity.
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
