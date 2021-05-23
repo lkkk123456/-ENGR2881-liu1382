@@ -1,9 +1,11 @@
 ## Demonstrate an understanding of current methods for secure information transfer}
 # Question 'ab': Write not more than 250 words about 'digital signatures'
 BEGIN:ab
+The digital signature is a type of mathematical algorithum that use to ensure data information (such as messages) authenticity and integrity. There are different types of digital signature is used such as Hash function(SHA-1 SHA-2 MD5),Key Predistribution, Digital certificates. To make sure the signature is authorized, they use Certificate authority and “Web of Trust” to signing the certificate, so that make sure the data is integrity and without any changes.
 END:ab
 # Question 'ac': Write not more than 250 words about 'certificate authorities'
 BEGIN:ac
+
 END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
