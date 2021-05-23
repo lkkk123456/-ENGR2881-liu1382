@@ -14,7 +14,7 @@ DigiNotar: It was an event that certificate authorities in Dutch hack by attacke
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
-ae=
+ae=y
 # Question 'af': Write a false statement about the content of Slide 14 of Chapter 2
 af=
 # Question 'ag': Write a false statement about the content of Slide 28 of Chapter 2
