@@ -16,9 +16,9 @@ END:ad
 ## Write statements that are true or false for various lecture slides.
 ae=y
 # Question 'af': Write a false statement about the content of Slide 14 of Chapter 2
-af=
+af=In Non Return to Zero unipolar signaling, the presence of pulse and the absence of pulse can be differ from data transit.
 # Question 'ag': Write a false statement about the content of Slide 28 of Chapter 2
-ag=
+ag=Byte counting can count how many bytes are contained in the payload.
 # Question 'ah': Write a true statement about the content of Slide 63 of Chapter 3
 ah=
 # Question 'ai': Write a true statement about the content of Slide 10 of Chapter 5
