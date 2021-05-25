@@ -34,4 +34,4 @@ am=IEEE 802.11 standards set all wireless nodes could directly communicated with
 # Question 'an': Write a false statement about the content of Slide 64 of Chapter 3
 an=Network represent peer to peer connection which can transfer packets.
 # Question 'ao': Write a false statement about the content of Slide 44 of Chapter 3
-ao=The bridge can make to network structure can communicate no matter it has same or different Network segment.
+ao=The bridge can make to network structure can communicate eachother no matter it has same or different subnet.
