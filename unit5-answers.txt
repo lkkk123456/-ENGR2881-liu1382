@@ -404,22 +404,22 @@ dm=51
 ## Write statements that are true or false for various lecture slides.
 dn=n
 # Question 'do': Write a false statement about the content of Slide 98 of Chapter 6
-do=
+do=RSVP happening on transport layer and steam many direction from sender to one or more receivers.
 # Question 'dp': Write a true statement about the content of Slide 59 of Chapter 3
-dp=
+dp=A minimum cost spanning tree is a spanning tree with least cost among all possible spanning trees.
 # Question 'dq': Write a true statement about the content of Slide 86 of Chapter 3
-dq=
+dq=We can understand the data sagment by analysise capture the data and convert it to binary numbers.
 # Question 'dr': Write a false statement about the content of Slide 42 of Chapter 6
-dr=
+dr=The tcp header will shown the error when data transmission timeout. 
 # Question 'ds': Write a false statement about the content of Slide 29 of Chapter 8
-ds=
+ds=In basic cryptographic mechanisms like hash founction, we normally use 128 bit length.
 # Question 'dt': Write a true statement about the content of Slide 36 of Chapter 5
-dt=
+dt=The first ACK sent by each end acknowledges the other end's initial sequence number itself, but no data.
 # Question 'du': Write a false statement about the content of Slide 67 of Chapter 9
-du=
+du=The network management work for most of the company now can be finished by one computer expert.
 # Question 'dv': Write a false statement about the content of Slide 94 of Chapter 2
-dv=
+dv=The manufacturer has assign the 12bit of Ethernet Addresses into their own adaptor.
 # Question 'dw': Write a true statement about the content of Slide 7 of Chapter 4
-dw=
+dw=The Interdomain Routing protocol still allows the node access to the Wide Area Network.
 # Question 'dx': Write a false statement about the content of Slide 81 of Chapter 2
-dx=
+dx=In this picture, the transceiver connect the Ethernet cable and the adapter which attach on the host, it transit from light signial into electrical signial.
