@@ -402,7 +402,7 @@ dl=17
 #        Format: Integer: Answer with the decimal value of the field.
 dm=51
 ## Write statements that are true or false for various lecture slides.
-dn=
+dn=n
 # Question 'do': Write a false statement about the content of Slide 98 of Chapter 6
 do=
 # Question 'dp': Write a true statement about the content of Slide 59 of Chapter 3
