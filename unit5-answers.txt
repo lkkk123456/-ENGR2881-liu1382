@@ -385,22 +385,22 @@ dg=41:96:15:82:6b:1e
 #	0x0040:  53f8 484a 60dc                           S.HJ`.
 # Question 'dh': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-dh=
+dh=174.170.128.182
 # Question 'di': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
-di=
+di=Y
 # Question 'dj': For the supplied packet: IP length
 #        Format: Integer: Answer with the decimal value of the field.
-dj=
+dj=52
 # Question 'dk': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-dk=
+dk=40:14:cf:2e:fc:4f
 # Question 'dl': For the supplied packet: IP Protocol of payload
 #        Format: Integer: Answer with the decimal value of the field.
-dl=
+dl=17
 # Question 'dm': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-dm=
+dm=51
 ## Write statements that are true or false for various lecture slides.
 dn=
 # Question 'do': Write a false statement about the content of Slide 98 of Chapter 6
