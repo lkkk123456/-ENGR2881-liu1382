@@ -12,7 +12,7 @@
 ab=51539
 # Question 'ac': For the supplied packet: IP Don't Frag
 #        Format: Boolean: Answer Y or N
-ac=Y
+ac=
 # Question 'ad': For the supplied packet: IP More Fragments
 #        Format: Boolean: Answer Y or N
 ad=N
