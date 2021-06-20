@@ -9,7 +9,7 @@
 #	0x0060:  a9cc 4c                                  ..L
 # Question 'ab': For the supplied packet: UDP destination port
 #        Format: Integer: Answer with the decimal value of the field.
-ab=
+ab=51539
 # Question 'ac': For the supplied packet: IP Don't Frag
 #        Format: Boolean: Answer Y or N
 ac=
